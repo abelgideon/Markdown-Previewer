@@ -5,7 +5,7 @@ import { marked } from "marked";
 const App = (props) => {
   const [input, setInput] = useState(`# heading element
 ## sub heading element
-[link](www.google.com)
+[link](https://www.google.com)
 \`inline code\`
 \`\`\`
 code
