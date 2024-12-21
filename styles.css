@@ -1,0 +1,17 @@
+#root {
+  height: 100%;
+}
+#editor {
+  width: 80%;
+  height: 15rem;
+  margin-bottom: 3rem;
+}
+
+#preview {
+  min-height: 10rem;
+}
+
+#header {
+  color: #fff;
+  margin: 3rem 0;
+}
