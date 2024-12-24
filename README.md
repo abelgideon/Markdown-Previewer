@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-This project is part of freeCodeCamp's **Front End Development Libraries** course. The Markdown Previewer allows users to write and preview GitHub-flavored markdown in real-time.
+The Markdown Previewer allows users to write and preview GitHub-flavored markdown in real-time.
 
 ## Features
 
